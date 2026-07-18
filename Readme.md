@@ -147,7 +147,7 @@ Features
 
 ### Preview
 
-![Dashboard 2](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce%20Sales%20Analysiss/main/04_outputs/Dashboard%21.png)
+![Dashboard 2](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/Dashboard%201.png)
 
 ---
 
