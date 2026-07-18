@@ -112,8 +112,7 @@ The Excel dashboard provides an interactive overview of sales performance with K
 
 ### Dashboard Preview
 
-![Excel Dashboard](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/Excel%20Dashboard.png)
-
+(https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/Excel%20Dashboard.png)
 ---
 
 # 📊 Power BI Dashboard
