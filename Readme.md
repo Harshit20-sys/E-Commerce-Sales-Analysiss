@@ -129,7 +129,7 @@ Features
 
 ### Preview
 
-![Dashboard 1](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce%20Sales%20Analysiss/main/04_outputs/Excel%20Dashboard.png)
+![Dashboard 1](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/Dashboard%202.png)
 
 
 ---
