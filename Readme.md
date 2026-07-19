@@ -154,24 +154,24 @@ Features
 
 ### Monthly Sales Trend
 
-![Monthly Sales](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce%20Sales%20Analysiss/main/04_outputs/Dashboard%22.png)
+![Monthly Sales](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/monthly_sales_trend.png)
 ---
 
 ### Revenue by Category
 
-![Revenue Category](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce%20Sales%20Analysiss/main/04_outputs/monthly_sales_trend.png)
+![Revenue Category](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/revenue_by_category.png)
 
 ---
 
 ### Review Distribution
 
-![Review Distribution](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce%20Sales%20Analysiss/main/04_outputs/review_distribution.png)
+![Review Distribution](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/review_distribution.png)
 
 ---
 
 ### State Revenue
 
-![State Revenue](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce%20Sales%20Analysiss/main/04_outputs/state_revenue.png)
+![State Revenue](https://raw.githubusercontent.com/Harshit20-sys/E-Commerce-Sales-Analysiss/main/04_outputs/state_revenue.png)
 
 ---
 
