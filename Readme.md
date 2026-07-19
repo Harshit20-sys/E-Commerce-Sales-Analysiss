@@ -200,8 +200,4 @@ Features
 
 GitHub: https://github.com/Harshit20-sys
 
-LinkedIn: *(Add your LinkedIn profile here)*
-
----
-
-# ⭐ If you found this project helpful, don't forget to star this repository.
+___
